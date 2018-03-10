@@ -8,3 +8,6 @@
        "City": "Dublin"
 	}
 
+4. To update the tables in dynamoDB, in this case Table: "Open-Data", was manually created earlier.
+5. This function is trigerred manually in AWS Lambda.
+
